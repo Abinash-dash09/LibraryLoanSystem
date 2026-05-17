@@ -11,7 +11,9 @@ This is a console-based Library Loan Management System built using Java and Apac
 - JDBC API
 - Eclipse IDE
 
-## Project Structure
+## 📁 Project Structure
+
+```plaintext
 LibraryLoanSystem/
 ├── src/
 │   ├── MainApp.java
@@ -23,6 +25,7 @@ LibraryLoanSystem/
     ├── derby.jar
     ├── derbyshared.jar
     └── derbytools.jar
+```
 
 ## Database Tables
 - Members - Stores library member details
